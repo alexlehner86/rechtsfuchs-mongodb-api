@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://((YOUR USERNAME)):((YOUR PASSWORD))@cluster0-1hx6t.mongodb.net/((YOUR DB))",
+    "secret": "((ENTER SECRET HERE))"
+}
